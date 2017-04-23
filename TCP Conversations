@@ -1,5 +1,4 @@
 TCP Conversations
-Filter:<No Filter>
                                                |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
                                                | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |   Duration   |
 10.0.5.5:46162       <-> 192.168.0.5:4444         160     19164     200     14878     360     34042    65.012602000       729.4979
